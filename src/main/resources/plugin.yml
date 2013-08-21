@@ -1,0 +1,6 @@
+name: SR-LoggerManager
+version: version-number-unknown
+description: SR-LoggerManager
+authors: [SiriuseR]
+website: http://www.siriuser.net/
+main: net.siriuser.srlm.SRLM
